@@ -63,5 +63,5 @@ The solution does not work for vertical writing mode so I will have to figure ou
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jay-ike](https://www.frontendmentor.io/profile/jay-ike)
 - Twitter - [@jospinEvans](https://www.twitter.com/jospinEvans)
