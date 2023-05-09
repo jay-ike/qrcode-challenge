@@ -21,9 +21,9 @@ This is the solution of a frontend-mentor challenge in which we have to create a
 ### Screenshots
 
 #### Desktop screenshot 
-![Desktop screenshot](./Screenshot-desktop.png.jpg)
+![Desktop screenshot](./Screenshot-desktop.png)
 #### Mobile screenshot 
-![Mobile screenshot](./Screenshot-mobile.png.jpg)
+![Mobile screenshot](./Screenshot-mobile.png)
 
 ### Links
 
@@ -35,7 +35,7 @@ This is the solution of a frontend-mentor challenge in which we have to create a
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flex-box
 - CSS Grid
 - Mobile-first workflow
 - CSS Logical properties
